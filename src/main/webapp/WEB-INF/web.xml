@@ -4,9 +4,6 @@
 	version="2.5">
 
 	<display-name>Gradle + Spring MVC Hello World + XML</display-name>
-	   <welcome-file-list>
-		<welcome-file>views/index.jsp<welcome-file>
-	   <welcome-file-list>
 	<description>Spring MVC web application</description>
 
 	<!-- For web context -->
